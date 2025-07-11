@@ -41,8 +41,3 @@ Windows:
 ```bash
 git clone https://github.com/ashish-kumar-2017/EduWeb--Educational-Website.git
 ```
-
-
-### License
-
-This project is **free to use** and does not contains any license.
