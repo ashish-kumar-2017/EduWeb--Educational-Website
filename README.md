@@ -2,7 +2,6 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/ashish-kumar-2017/EduWeb--Educational-Website)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/x26bQPxcFX4?style=social)](https://youtu.be/x26bQPxcFX4)
 
   <br />
   <br />
